@@ -15,6 +15,7 @@
 \usepackage[hmargin=1.1cm, vmargin=1cm]{geometry}
 \usepackage[hidelinks]{hyperref}
 \usepackage{graphicx}
+\usepackage{paracol}
 
 % Publications
 \usepackage{cite}
@@ -22,7 +23,7 @@
 
 
 % Color definitions
-\usepackage[usenames,dvipsnames]{xcolor} 
+\usepackage[dvipsnames]{xcolor} 
 \definecolor{date}{HTML}{cccccc} 
 \definecolor{primary}{HTML}{2b2b2b} 
 \definecolor{headings}{HTML}{707070}%{}2b9fff
